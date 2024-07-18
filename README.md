@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/am-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="am-ali" height="30" width="40" /></a>
-<a href="https://twitter.com/abukar_m_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abukar_m_ali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abukar mokhtar ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abukar mokhtar ali" height="30" width="40" /></a>
-<a href="https://fb.com/bakarmokhtarali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bakar mokhtar ali" height="30" width="40" /></a>
+<a href="https://codepen.io/am-ali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="am-ali" height="30" width="40" /></a>
+<a href="https://twitter.com/abukar_m_ali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abukar_m_ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abukar-mokhtar-ali-aa00a1261/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abukar mokhtar ali" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100052409813832" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bakar mokhtar ali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/abukar_m_ali" target="blank"><img src="https://img.shields.io/twitter/follow/abukar_m_ali?logo=twitter&style=for-the-badge" alt="abukar_m_ali" /></a> </p>
 
-- 🔭 I’m currently working on **travel app**
+- 🔭 I’m currently working on **mern-madrasa-app**
 
 - 🌱 I’m currently learning **React Native**
 
